@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-python.python",
+    "cSpell.words": [
+        "speechsdk",
+    ],
+    "python.pythonPath": "venv/bin/python",
+    "editor.formatOnType": true
+}

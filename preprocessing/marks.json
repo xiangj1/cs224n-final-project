@@ -1,0 +1,16 @@
+{
+    "Person": "|",
+    "PersonType": "{",
+    "Location": "&",
+    "Organization": "~",
+    "Event": "!",
+    "Product": "(",
+    "Skill": "^",
+    "Address": "%",
+    "PhoneNumber": "#",
+    "Email": "@",
+    "URL": "/",
+    "IP": "*",
+    "DateTime": "<",
+    "Quantity": ":"
+}
